@@ -76,6 +76,12 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-web:6.1.10" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.1.10" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.1.10" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-mongodb:3.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-sync:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:bson:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:5.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.mongodb:bson-record-codec:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-mongodb:4.3.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.h2database:h2:2.2.224" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.32" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:3.3.1" level="project" />
